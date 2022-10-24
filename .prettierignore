@@ -1,0 +1,16 @@
+**/*.svg
+package.json
+lib/
+es/
+build/
+yarn.lock
+yarn-error.log
+*.sh
+.gitignore
+.npmignore
+.prettierignore
+.DS_Store
+.editorconfig
+.eslintignore
+.vscode
+src/assets
