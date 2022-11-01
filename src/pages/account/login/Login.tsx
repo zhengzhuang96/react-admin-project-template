@@ -2,7 +2,7 @@
  * @Author: {zhengzhuang}
  * @Date: 2022-07-20 17:03:37
  * @LastEditors: {zhengzhuang}
- * @LastEditTime: 2022-08-24 16:50:13
+ * @LastEditTime: 2022-11-01 22:24:51
  * @Description: 登陆页 Login
  */
 import React, { useState, useEffect, useRef } from 'react'
@@ -38,7 +38,7 @@ const Login: React.FC = () => {
 					<img src={LoginBanner} alt="" className="LoginBanner" />
 				</Col>
 				<Col flex="1 1 300px" className="login-box">
-					<div className="page-login__title">数字化物流供应链开放平台运营后台 </div>
+					<div className="page-login__title">react-admin demo</div>
 					<Form
 						name="normal_login"
 						className="login-form"
